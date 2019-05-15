@@ -1,8 +1,8 @@
 import pygame, random, sys, os, time
 from pygame.locals import *
 
-WINDOWWIDTH = 800
-WINDOWHEIGHT = 600
+WINDOWWIDTH = 400
+WINDOWHEIGHT = 300
 TEXTCOLOR = (255, 255, 255)
 BACKGROUNDCOLOR = (0, 0, 0)
 FPS = 40
