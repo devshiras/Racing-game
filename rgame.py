@@ -13,7 +13,7 @@ BADDIEMAXSPEED = 8
 ADDNEWBADDIERATE = 6
 PLAYERMOVERATE = 5
 count = 3
-topScore=0
+topScore=1
 
 def terminate():
     pygame.quit()
